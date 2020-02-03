@@ -19,4 +19,14 @@ router.post('/formsub', upload.single('meme'), (req, res, next) => {
 
 })
 
+router.post('/formsubarray', upload.array('meme'), (req, res, next) => {
+  console.log(req.files)
+  const newPath = `public/images/uploads/${req.file.originalname}`
+  console.log(newPath)
+  fs.rename(req.file.path, newPath, () => {
+    res.json("file uploaded")
+  });
+
+})
+
 module.exports = router;
