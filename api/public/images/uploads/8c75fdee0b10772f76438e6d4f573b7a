@@ -1,0 +1,6 @@
+﻿RecordType,ID,DisplayName,Furigana,LastName,FirstName,FaxNumber,EmailAddress,NetworkFolderPath,FtpServer,FtpPort,NetworkFolderType,AuthDomain,AuthUserName,AuthPassword,Notes,ChildContacts,AddressBookType,AddressBookName,AccessCode
+Single,f63c21cb-9338-4b27-858c-7182a4379da8,Carmen,,Taylor,Carmen,,carmen_taylor@morrisonexpress.com,,,21,NA,,,,,,Local,Local,,
+Single,3d07b53d-ad27-41d2-b115-005c5d86245e,Cesar,,,,,cesar_gonzalez@morrisonexpress.com,,,21,NA,,,,,,Local,Local,,
+Single,e67a48d1-44da-4052-bfbf-d1e12b4f619c,Do Che,,Che,Do,,do_che@morrisonexpress.com,,,21,NA,,,,,,Local,Local,,
+Single,a27fb074-90b9-489d-a8be-68cfa079e46a,Jocelyn,,,,,jocelyn_dean@morrisonexpress.com,,,21,NA,,,,,,Local,Local,,
+
